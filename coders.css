@@ -1,0 +1,68 @@
+h4{
+	color: grey;
+	font-family: 'Overpass Mono', monospace;
+	margin-bottom: 0;
+}
+.linea{
+	width: 80px;
+	height: 1px;
+	border-bottom: 2px solid grey;
+	margin-bottom: 10px;
+}
+
+.oso-panda, .jirafas, .leopardo, .oso-polar, .perrito{
+	float: left;
+	margin-right: 40px;
+}
+img{
+	width: 150px;
+	height: 150px;
+}
+.oso-panda p{
+	color: white;
+	font-family: 'Overpass Mono', monospace;
+	margin-bottom: 0;
+	position: relative;
+	left: 55px;
+	bottom: 40px;
+}
+.jirafas p{
+	color: white;
+	font-family: 'Overpass Mono', monospace;
+	margin-bottom: 0;
+	position: relative;
+	left: 75px;
+	bottom: 40px;
+}
+.gatito p{
+	color: white;
+	font-family: 'Overpass Mono', monospace;
+	margin-bottom: 0;
+	position: relative;
+	left: 80px;
+	bottom: 40px;
+}
+.leopardo p{
+	color: white;
+	font-family: 'Overpass Mono', monospace;
+	margin-bottom: 0;
+	position: relative;
+	left: 65px;
+	bottom: 40px;
+}
+.oso-polar p{
+	color: white;
+	font-family: 'Overpass Mono', monospace;
+	margin-bottom: 0;
+	position: relative;
+	left: 55px;
+	bottom: 40px;
+}
+.perrito p{
+	color: white;
+	font-family: 'Overpass Mono', monospace;
+	margin-bottom: 0;
+	position: relative;
+	left: 75px;
+	bottom: 40px;
+}
